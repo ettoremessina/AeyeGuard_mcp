@@ -4,7 +4,7 @@ setup(
     name="aeyeguard-mcp",
     version="1.0.0",
     description="AeyeGuard MCP Service - Security Static Analysis",
-    author="EMWare Studio",
+    author="ettoremessina",
     packages=find_packages(),
     install_requires=[
         "langchain>=0.1.0",
