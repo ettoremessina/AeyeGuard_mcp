@@ -388,10 +388,6 @@ You'll know everything is working when:
 
 ## License
 
-MIT License
-
-Copyright (c) 2025 Ettore Messina
-
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Additional Documentation
